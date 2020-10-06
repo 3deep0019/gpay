@@ -24,7 +24,7 @@ header h1 {
 }
 
 #main {
-    background: url(./src/homepage_header_background_v2.svg) no-repeat;
+    background: url(./src/homepage_headerbackground.svg) no-repeat;
     background-size: cover;
     width: 100%;
     height: 85vh;
